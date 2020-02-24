@@ -1,4 +1,4 @@
-# CF_project: Clothes Recommendation using Category and Attribute Prediction Dataset(DeepFashion Dataset)
+# Clothes Recommendation on DeepFashion Dataset
 Methodology
 
 ![Methodology](https://github.com/suman9868/Fashion-Recommendation-System-using-pretrained-ResNet-model/blob/master/methodology.jpg)
