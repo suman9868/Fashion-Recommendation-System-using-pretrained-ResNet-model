@@ -23,3 +23,6 @@ includes data loading, ResNet implementation and training part and best model sa
 The following ipynb file contain the code for all six model loading, taking input and for each input predicting the top 5 most <br /> 
 suitable images using KNN. <br />
 -KNN-CF-Project.ipynb <br />
+
+Result
+![Result](https://github.com/suman9868/Fashion-Recommendation-System-using-pretrained-ResNet-model/blob/master/visual_output.jpg)
