@@ -17,6 +17,9 @@ Style Attributes: Mickey, baseball, etc.
 METHODOLOGY
 
 ![Methodology](https://github.com/suman9868/Fashion-Recommendation-System-using-pretrained-ResNet-model/blob/master/methodology.jpg)
+
+<hr>
+CODE FILE DESCRIPTION
 The following ipynb file contains the code for preprocessing part done on the category, and five groups of attribute like <br />
 texture, fabric, shape, part and style. <br /> 
 -Data_Preprocessing_Attribute_class_1_TEXTURE.ipynb <br />
