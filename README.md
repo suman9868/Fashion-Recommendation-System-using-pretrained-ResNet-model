@@ -43,5 +43,4 @@ RESULT
 <hr>
 ![Result](https://github.com/suman9868/Fashion-Recommendation-System-using-pretrained-ResNet-model/blob/master/visual_output.jpg)
 
-#Result2
 ![Result2](https://github.com/suman9868/Fashion-Recommendation-System-using-pretrained-ResNet-model/blob/master/visual_output2.jpg)
