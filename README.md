@@ -37,17 +37,19 @@ texture, fabric, shape, part and style. <br />
 </ul>
 The following ipynb file contains the code for applying ResNet model on the category and five groups of attributes. All file <br />
 includes data loading, ResNet implementation and training part and best model save. <br />
--CF-Project_Attribute_Texture_balanced_resnet.ipynb <br />
--CF-Project_Attribute_Fabric_balanced_resnet.ipynb <br />
--CF-Project_Attribute_Shape_balanced_resnet.ipynb <br />
--CF-Project_Attribute_Part_balanced_resnet.ipynb <br />
--CF-Project_Attribute_Style_balanced_resnet.ipynb <br />
--CF-Project_Category_balanced_resnet.ipynb <br />
-
+<ul>
+<li>CF-Project_Attribute_Texture_balanced_resnet.ipynb </li>
+<li>CF-Project_Attribute_Fabric_balanced_resnet.ipynb </li>
+<li>CF-Project_Attribute_Shape_balanced_resnet.ipynb </li>
+<li>CF-Project_Attribute_Part_balanced_resnet.ipynb </li>
+<li>CF-Project_Attribute_Style_balanced_resnet.ipynb </li>
+<li>CF-Project_Category_balanced_resnet.ipynb </li>
+</ul>
 The following ipynb file contain the code for all six model loading, taking input and for each input predicting the top 5 most <br /> 
 suitable images using KNN. <br />
--KNN-CF-Project.ipynb <br />
-
+<ul>
+<li>KNN-CF-Project.ipynb </li>
+</ul>
 <hr>
 RESULT
 
