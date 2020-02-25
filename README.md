@@ -39,8 +39,8 @@ The following ipynb file contain the code for all six model loading, taking inpu
 suitable images using KNN. <br />
 -KNN-CF-Project.ipynb <br />
 
-RESULT
 <hr>
+RESULT
 
 ![Result](https://github.com/suman9868/Fashion-Recommendation-System-using-pretrained-ResNet-model/blob/master/visual_output.jpg)
 
