@@ -3,7 +3,7 @@ INTRODUCTION
 <br />
 This Github repo presents a fashion recommendation system trained on the DeepFashion dataset. The DeepFashion dataset is one of the largest and richly annotated fashion datasets.
 , which consists of 800k images.   
-<hr>
+<hr size="10">
 
 DATASET
 <br />
