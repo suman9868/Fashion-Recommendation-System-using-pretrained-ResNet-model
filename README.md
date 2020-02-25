@@ -8,11 +8,15 @@ This Github repo presents a fashion recommendation system trained on the DeepFas
 DATASET
 <br />
 The DeepFashion dataset consists of 800K images which are further annotated with 1000 attributes and 50 categories. The feature labels are broadly divided into two parts i.e. clothing category and attributes category. The dress category consists of noun names e.g. "dress". The attribute category consists of a combination of adjectives e.g. "animal print". The experiment perform on top 5 classes which are as follows:
-Texture Attributes: Palm, color blocked, stripes, etc.
-Fabrics Attributes: Leather, tweed, etc.
-Shape Attributes: Crop, Midi, etc. 
-Part Attributes: Bow-F, Fringed-H, etc. 
-Style Attributes: Mickey, baseball, etc.
+<ul>
+  <li>Texture Attributes: Palm, color blocked, stripes, etc. </li>
+  <li>Fabrics Attributes: Leather, tweed, etc. </li>
+  <li>Fabrics Attributes: Leather, tweed, etc. </li>
+  <li>Shape Attributes: Crop, Midi, etc. </li>
+  <li>Part Attributes: Bow-F, Fringed-H, etc. </li>
+  <li>Style Attributes: Mickey, baseball, etc. </li>
+</ul>
+
 <hr>
 METHODOLOGY
 
