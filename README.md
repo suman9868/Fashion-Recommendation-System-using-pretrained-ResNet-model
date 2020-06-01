@@ -1,4 +1,12 @@
 # Clothes Recommendation on DeepFashion Dataset
+
+![Result](https://github.com/suman9868/Fashion-Recommendation-System-using-pretrained-ResNet-model/blob/master/visual_output.jpg)
+
+![Result2](https://github.com/suman9868/Fashion-Recommendation-System-using-pretrained-ResNet-model/blob/master/visual_output2.jpg)
+
+<br />
+<hr>
+
 INTRODUCTION
 <br />
 This Github repo presents a fashion recommendation system trained on the DeepFashion dataset. The DeepFashion dataset is one of the largest and richly annotated fashion datasets.
