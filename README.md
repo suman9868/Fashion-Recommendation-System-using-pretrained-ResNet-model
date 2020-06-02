@@ -7,13 +7,13 @@
 <br />
 <hr>
 
-INTRODUCTION
+**INTRODUCTION**
 <br />
 This Github repo presents a fashion recommendation system trained on the DeepFashion dataset. The DeepFashion dataset is one of the largest and richly annotated fashion datasets.
 , which consists of 800k images.   
 <hr>
 
-DATASET
+**DATASET**
 <br />
 The DeepFashion dataset consists of 800K images which are further annotated with 1000 attributes and 50 categories. The feature labels are broadly divided into two parts i.e. clothing category and attributes category. The dress category consists of noun names e.g. "dress". The attribute category consists of a combination of adjectives e.g. "animal print". The experiment perform on top 5 classes which are as follows:
 <ul>
@@ -26,12 +26,12 @@ The DeepFashion dataset consists of 800K images which are further annotated with
 </ul>
 
 <hr>
-METHODOLOGY
+**METHODOLOGY**
 
 ![Methodology](https://github.com/suman9868/Fashion-Recommendation-System-using-pretrained-ResNet-model/blob/master/methodology.jpg)
 
 <hr>
-CODE FILE DESCRIPTION
+**CODE FILE DESCRIPTION**
 <br />
 The following ipynb file contains the code for preprocessing part done on the category, and five groups of attribute like <br />
 texture, fabric, shape, part and style. <br />
@@ -59,7 +59,7 @@ suitable images using KNN. <br />
 <li>KNN-CF-Project.ipynb </li>
 </ul>
 <hr>
-RESULT
+**RESULT**
 
 ![Result](https://github.com/suman9868/Fashion-Recommendation-System-using-pretrained-ResNet-model/blob/master/visual_output.jpg)
 
