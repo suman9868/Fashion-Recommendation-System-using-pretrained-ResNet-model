@@ -24,13 +24,12 @@ The DeepFashion dataset consists of 800K images which are further annotated with
   <li>Part Attributes: Bow-F, Fringed-H, etc. </li>
   <li>Style Attributes: Mickey, baseball, etc. </li>
 </ul>
-
 <hr>
+
 **METHODOLOGY**
-
 ![Methodology](https://github.com/suman9868/Fashion-Recommendation-System-using-pretrained-ResNet-model/blob/master/methodology.jpg)
-
 <hr>
+
 **CODE FILE DESCRIPTION**
 <br />
 The following ipynb file contains the code for preprocessing part done on the category, and five groups of attribute like <br />
@@ -59,6 +58,7 @@ suitable images using KNN. <br />
 <li>KNN-CF-Project.ipynb </li>
 </ul>
 <hr>
+
 **RESULT**
 
 ![Result](https://github.com/suman9868/Fashion-Recommendation-System-using-pretrained-ResNet-model/blob/master/visual_output.jpg)
